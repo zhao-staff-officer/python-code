@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e9ecb7e7-7742-40b3-9d9a-85d3cdb57ab7" name="Default Changelist" comment="" />
+    <list default="true" id="e9ecb7e7-7742-40b3-9d9a-85d3cdb57ab7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/day30.if-else判断/ex30.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day31.嵌套判断/ex31.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day32.循环和列表/ex32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day33.while循环/ex33.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34.获取列表元素/ex34.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day39.字典/ex39.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day29.if判断/ex29.py" beforeDir="false" afterPath="$PROJECT_DIR$/day29.if判断/ex29.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -201,7 +209,7 @@
       <workItem from="1620270473970" duration="6056000" />
       <workItem from="1620351914262" duration="6710000" />
       <workItem from="1620367655359" duration="9918000" />
-      <workItem from="1620436646815" duration="4045000" />
+      <workItem from="1620436646815" duration="14478000" />
     </task>
     <servers />
   </component>
