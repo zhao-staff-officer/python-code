@@ -2,21 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9ecb7e7-7742-40b3-9d9a-85d3cdb57ab7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day16/ex16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16/ex16.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/ex17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/ex17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18/ex18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day19/ex19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/ex20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/ex20.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/ex21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/ex23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/languages.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day24/ex24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day25/ex25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/ex26.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day28/ex28.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/day1.第一个程序/ex1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day10/ex10.py" beforeDir="false" afterPath="$PROJECT_DIR$/day10.转义符/ex10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day11/ex11.py" beforeDir="false" afterPath="$PROJECT_DIR$/day11.输入/ex11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day12/ex12.py" beforeDir="false" afterPath="$PROJECT_DIR$/day12.示用提示用户/ex12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/ex2.py" beforeDir="false" afterPath="$PROJECT_DIR$/day2.注释和井号/ex2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day3/ex3.py" beforeDir="false" afterPath="$PROJECT_DIR$/day3.数字和数学/ex3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day4/ex4.py" beforeDir="false" afterPath="$PROJECT_DIR$/day4.变量和名字/ex4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day5/ex5.py" beforeDir="false" afterPath="$PROJECT_DIR$/day5.更多更多变量和打印/ex5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day6/ex6.py" beforeDir="false" afterPath="$PROJECT_DIR$/day6.字符串和文本/ex6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day7/ex7.py" beforeDir="false" afterPath="$PROJECT_DIR$/day7.多打印更多打印/ex7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day8/ex8.py" beforeDir="false" afterPath="$PROJECT_DIR$/day8.打印，打印/ex8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day9/ex8.py" beforeDir="false" afterPath="$PROJECT_DIR$/day9.打印，打印，打印/ex8.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +52,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/day26" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
@@ -216,7 +214,7 @@
       <workItem from="1620270473970" duration="6056000" />
       <workItem from="1620351914262" duration="6710000" />
       <workItem from="1620367655359" duration="9918000" />
-      <workItem from="1620436646815" duration="2684000" />
+      <workItem from="1620436646815" duration="3376000" />
     </task>
     <servers />
   </component>
@@ -267,10 +265,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1493" height="277" key="GridCell.Tab.1.right/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1620354834355" />
-    <state x="178" y="35" key="new project wizard" timestamp="1620357084056">
+    <state x="178" y="35" key="new project wizard" timestamp="1620439808262">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="178" y="35" key="new project wizard/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1620357084056" />
+    <state x="178" y="35" key="new project wizard/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1620439808262" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/paython_code$ex8.coverage" NAME="ex8 Coverage Results" MODIFIED="1620354064306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day8" />
