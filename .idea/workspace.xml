@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e9ecb7e7-7742-40b3-9d9a-85d3cdb57ab7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/day1/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/day1.第一个程序/ex1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10/ex10.py" beforeDir="false" afterPath="$PROJECT_DIR$/day10.转义符/ex10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day11/ex11.py" beforeDir="false" afterPath="$PROJECT_DIR$/day11.输入/ex11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day12/ex12.py" beforeDir="false" afterPath="$PROJECT_DIR$/day12.示用提示用户/ex12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/ex2.py" beforeDir="false" afterPath="$PROJECT_DIR$/day2.注释和井号/ex2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day3/ex3.py" beforeDir="false" afterPath="$PROJECT_DIR$/day3.数字和数学/ex3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day4/ex4.py" beforeDir="false" afterPath="$PROJECT_DIR$/day4.变量和名字/ex4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day5/ex5.py" beforeDir="false" afterPath="$PROJECT_DIR$/day5.更多更多变量和打印/ex5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day6/ex6.py" beforeDir="false" afterPath="$PROJECT_DIR$/day6.字符串和文本/ex6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day7/ex7.py" beforeDir="false" afterPath="$PROJECT_DIR$/day7.多打印更多打印/ex7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day8/ex8.py" beforeDir="false" afterPath="$PROJECT_DIR$/day8.打印，打印/ex8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day9/ex8.py" beforeDir="false" afterPath="$PROJECT_DIR$/day9.打印，打印，打印/ex8.py" afterDir="false" />
-    </list>
+    <list default="true" id="e9ecb7e7-7742-40b3-9d9a-85d3cdb57ab7" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -214,7 +201,7 @@
       <workItem from="1620270473970" duration="6056000" />
       <workItem from="1620351914262" duration="6710000" />
       <workItem from="1620367655359" duration="9918000" />
-      <workItem from="1620436646815" duration="3376000" />
+      <workItem from="1620436646815" duration="4045000" />
     </task>
     <servers />
   </component>
