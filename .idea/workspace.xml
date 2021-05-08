@@ -2,18 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9ecb7e7-7742-40b3-9d9a-85d3cdb57ab7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day10/ex10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11/ex11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day12/ex12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day13/ex13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day14/ex14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15/ex15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15/ex15_agin.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15/ex15_sample.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day6/ex6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/ex7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day8/ex8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day9/ex8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day16/ex16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day16/ex16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day17/ex17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day17/ex17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day18/ex18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day19/ex19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day20/ex20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day20/ex20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day21/ex21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day23/ex23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day23/languages.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/ex24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/ex25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26/ex26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day28/ex28.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,11 +51,18 @@
     <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="F:/work-platform/platform-boss/ms-parkinglot" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day26" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\self-platform\paython-code\day26" />
+      <recent name="F:\self-platform\paython-code\day23" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.ex13">
     <configuration name="ex10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -187,6 +197,9 @@
       </list>
     </option>
   </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -201,18 +214,23 @@
       <workItem from="1619747511115" duration="5063000" />
       <workItem from="1619806013053" duration="712000" />
       <workItem from="1620270473970" duration="6056000" />
-      <workItem from="1620351914262" duration="6012000" />
+      <workItem from="1620351914262" duration="6710000" />
+      <workItem from="1620367655359" duration="9918000" />
+      <workItem from="1620436646815" duration="2684000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="520" y="241" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1620357113791">
+    <state x="520" y="241" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1620379783344">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="520" y="241" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1620357113791" />
+    <state x="520" y="241" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1620379783344" />
     <state x="549" y="191" key="FileChooserDialogImpl" timestamp="1620352479260">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
