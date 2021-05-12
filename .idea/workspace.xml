@@ -2,12 +2,52 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9ecb7e7-7742-40b3-9d9a-85d3cdb57ab7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day40.模块,类和对象/class/ex40c.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day40.模块,类和对象/ex40.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day40.模块,类和对象/moudle/ex40a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day40.模块,类和对象/moudle/ex40b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day40.模块,类和对象/moudle/mystuff.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day44.集成/ex44a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_/day1.第一个程序/ex1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_/day10.转义符/ex10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_/day11.输入/ex11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_/day12.示用提示用户/ex12.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_/day12.示用提示用户/ex12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_/day13.参数，解包，变量/ex13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_/day14.提示和提示和传递/ex14.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_/day15.阅读文件文件/ex15.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_/day15.阅读文件文件/ex15_agin.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_/day15.阅读文件文件/ex15_sample.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python_/day15.阅读文件文件/ex15_sample.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_/day16.读写文件写文件/ex16.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_/day16.读写文件写文件/ex16.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_/day17.更多文件/ex17.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_/day17.更多文件/ex17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python_/day17.更多文件/ex17.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_/day18.称，名称，变量，代量，代码，函数，函数/ex18.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_/day19.数和函数和变量量/ex19.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_/day2.注释和井号/ex2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_/day20.数和文件函数和文件/ex20.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_/day20.数和文件函数和文件/ex20.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_/day21.返回值/ex21.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_/day23.符串，字字符串，字节和字符和字符编码/ex23.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_/day23.符串，字字符串，字节和字符和字符编码/languages.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_/day24.练习/ex24.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_/day25.练习/ex25.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_/day26.测试/ex26.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_/day28.布尔类型/ex28.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_/day29.if判断/ex29.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_/day29.if判断/ex29.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_/day3.数字和数学/ex3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_/day30.if-else判断/ex30.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_/day30.if-else判断/ex30.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_/day31.嵌套判断/ex31.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_/day32.循环和列表/ex32.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_/day33.while循环/ex33.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_/day34.获取列表元素/ex34.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_/day39.字典/ex39.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_/day4.变量和名字/ex4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_/day40.模块,类和对象/class/ex40c.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_/day40.模块,类和对象/ex40.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_/day40.模块,类和对象/moudle/ex40a.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_/day40.模块,类和对象/moudle/ex40b.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_/day40.模块,类和对象/moudle/mystuff.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_/day44.集成/ex44a.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_/day5.更多更多变量和打印/ex5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_/day6.字符串和文本/ex6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_/day7.多打印更多打印/ex7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_/day8.打印，打印/ex8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_/day9.打印，打印，打印/ex8.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,12 +91,13 @@
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\self-platform\paython-code\day40\moudle" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\self-platform\paython-code\day26" />
       <recent name="F:\self-platform\paython-code\day23" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\self-platform\python-code\python_" />
+      <recent name="F:\self-platform\paython-code\day40\moudle" />
     </key>
   </component>
   <component name="RunManager" selected="Python.ex44a">
@@ -213,6 +254,7 @@
       <workItem from="1620367655359" duration="9918000" />
       <workItem from="1620436646815" duration="14478000" />
       <workItem from="1620783507188" duration="3927000" />
+      <workItem from="1620787939893" duration="1587000" />
     </task>
     <servers />
   </component>
