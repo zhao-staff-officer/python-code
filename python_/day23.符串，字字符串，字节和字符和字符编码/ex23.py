@@ -13,6 +13,6 @@ def print_line(line,encoding,errors):
     cooked_string =raw_bytes.decode(encoding,errors=errors)
     print(raw_bytes,"<====>",cooked_string)
 
-languages = open("languages.txt",encoding="utf-8")
+languages = open("languages.txt", encoding="utf-8")
 
 main(languages,encoding,error)

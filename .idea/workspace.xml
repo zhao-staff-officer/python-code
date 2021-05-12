@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9ecb7e7-7742-40b3-9d9a-85d3cdb57ab7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day30.if-else判断/ex30.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day31.嵌套判断/ex31.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day32.循环和列表/ex32.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day33.while循环/ex33.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day34.获取列表元素/ex34.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day39.字典/ex39.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day29.if判断/ex29.py" beforeDir="false" afterPath="$PROJECT_DIR$/day29.if判断/ex29.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day40.模块,类和对象/class/ex40c.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day40.模块,类和对象/ex40.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day40.模块,类和对象/moudle/ex40a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day40.模块,类和对象/moudle/ex40b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day40.模块,类和对象/moudle/mystuff.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day44.集成/ex44a.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,16 +47,19 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/day26" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\self-platform\paython-code\day40\moudle" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\self-platform\paython-code\day26" />
       <recent name="F:\self-platform\paython-code\day23" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex13">
+  <component name="RunManager" selected="Python.ex44a">
     <configuration name="ex10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="paython-code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -146,7 +148,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex8 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex44a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="paython-code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -154,12 +156,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day44" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day9/ex8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day44/ex44a.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex44a" />
         <item itemvalue="Python.ex13" />
         <item itemvalue="Python.ex12" />
         <item itemvalue="Python.ex11" />
         <item itemvalue="Python.ex10" />
-        <item itemvalue="Python.ex8 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -210,6 +212,7 @@
       <workItem from="1620351914262" duration="6710000" />
       <workItem from="1620367655359" duration="9918000" />
       <workItem from="1620436646815" duration="14478000" />
+      <workItem from="1620783507188" duration="3927000" />
     </task>
     <servers />
   </component>
@@ -224,26 +227,26 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="520" y="241" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1620379783344" />
-    <state x="549" y="191" key="FileChooserDialogImpl" timestamp="1620352479260">
+    <state x="549" y="191" key="FileChooserDialogImpl" timestamp="1620784151156">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="549" y="191" key="FileChooserDialogImpl/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1620352479260" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1620356378971">
+    <state x="549" y="191" key="FileChooserDialogImpl/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1620784151156" />
+    <state width="1493" height="102" key="GridCell.Tab.0.bottom" timestamp="1620787911565">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1620356378971" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1620356378971">
+    <state width="1493" height="102" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1620787911565" />
+    <state width="1493" height="102" key="GridCell.Tab.0.center" timestamp="1620787911565">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1620356378971" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1620356378971">
+    <state width="1493" height="102" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1620787911565" />
+    <state width="1493" height="102" key="GridCell.Tab.0.left" timestamp="1620787911565">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1620356378971" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1620356378971">
+    <state width="1493" height="102" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1620787911565" />
+    <state width="1493" height="102" key="GridCell.Tab.0.right" timestamp="1620787911565">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1620356378971" />
+    <state width="1493" height="102" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1620787911565" />
     <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1620354834355">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -269,6 +272,7 @@
     <SUITE FILE_PATH="coverage/paython_code$ex8.coverage" NAME="ex8 Coverage Results" MODIFIED="1620354064306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day8" />
     <SUITE FILE_PATH="coverage/paython_code$ex2.coverage" NAME="ex2 Coverage Results" MODIFIED="1619749652650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
     <SUITE FILE_PATH="coverage/paython_code$ex5.coverage" NAME="ex5 Coverage Results" MODIFIED="1619753643491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5" />
+    <SUITE FILE_PATH="coverage/paython_code$ex44a.coverage" NAME="ex44a Coverage Results" MODIFIED="1620786518010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day44" />
     <SUITE FILE_PATH="coverage/paython_code$ex12.coverage" NAME="ex12 Coverage Results" MODIFIED="1620355657354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day12" />
     <SUITE FILE_PATH="coverage/paython_code$ex1.coverage" NAME="ex1 Coverage Results" MODIFIED="1619749357375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
     <SUITE FILE_PATH="coverage/paython_code$ex13.coverage" NAME="ex13 Coverage Results" MODIFIED="1620356316319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day13" />
