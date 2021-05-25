@@ -2,13 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9ecb7e7-7742-40b3-9d9a-85d3cdb57ab7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/OpenCV_/GUI/createwind.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV_/GUI/imread.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV_/GUI/matplotlib.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV_/GUI/write.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV_/Source/E05EV8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV_/Source/imageWrite.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenCV_/image/print.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenCV_/mouse/mouseTest1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenCV_/static/E05EV8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenCV_/video/openCamera.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenCV_/video/openVideo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenCV_/video/videoWrite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenCV_/GUI/createwind.py" beforeDir="false" afterPath="$PROJECT_DIR$/OpenCV_/gui/createwind.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenCV_/GUI/imread.py" beforeDir="false" afterPath="$PROJECT_DIR$/OpenCV_/gui/imread.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenCV_/GUI/matplotlib.py" beforeDir="false" afterPath="$PROJECT_DIR$/OpenCV_/gui/matplotlib.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenCV_/GUI/write.py" beforeDir="false" afterPath="$PROJECT_DIR$/OpenCV_/gui/write.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenCV_/Source/E05EV8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenCV_/Source/imageWrite.png" beforeDir="false" afterPath="$PROJECT_DIR$/OpenCV_/static/imageWrite.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,17 +78,18 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\self-platform\python-code\python_" />
-      <recent name="F:\self-platform\paython-code\day40\moudle" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\self-platform\python-code\OpenCV_\Source" />
       <recent name="F:\self-platform\paython-code\day26" />
       <recent name="F:\self-platform\paython-code\day23" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\self-platform\python-code\OpenCV_\static" />
+      <recent name="F:\self-platform\python-code\python_" />
+      <recent name="F:\self-platform\paython-code\day40\moudle" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.write">
+  <component name="RunManager" selected="Python.mouseTest1">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="python-code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -106,17 +112,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="createwind" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="mouseTest1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OpenCV_/GUI" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OpenCV_/mouse" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCV_/GUI/createwind.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCV_/mouse/mouseTest1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,17 +131,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="imread" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="openCamera" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OpenCV_/GUI" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OpenCV_/video" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCV_/GUI/imread.py" />
+      <option name="SCRIPT_NAME" value="F:\self-platform\python-code\OpenCV_\video\openCamera.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,39 +150,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="openVideo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/Scripts/python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Django_" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OpenCV_/video" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Django_/manage.py" />
-      <option name="PARAMETERS" value="runserver" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCV_/video/openVideo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="write" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="print" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OpenCV_/GUI" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OpenCV_/image" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCV_/GUI/write.py" />
+      <option name="SCRIPT_NAME" value="F:\self-platform\python-code\OpenCV_\image\print.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="videoWrite" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OpenCV_/video" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCV_/video/videoWrite.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,10 +209,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.write" />
-        <item itemvalue="Python.createwind" />
-        <item itemvalue="Python.imread" />
-        <item itemvalue="Python.manage" />
+        <item itemvalue="Python.mouseTest1" />
+        <item itemvalue="Python.printLine" />
+        <item itemvalue="Python.videoWrite" />
+        <item itemvalue="Python.openVideo" />
+        <item itemvalue="Python.openCamera" />
       </list>
     </recent_temporary>
   </component>
@@ -253,6 +276,8 @@
       <workItem from="1621702999310" duration="16000" />
       <workItem from="1621746606214" duration="5620000" />
       <workItem from="1621780431913" duration="5314000" />
+      <workItem from="1621912476163" duration="27000" />
+      <workItem from="1621949076895" duration="5206000" />
     </task>
     <servers />
   </component>
@@ -280,62 +305,63 @@
     </state>
     <state x="223" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1621331523841" />
     <state x="223" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1621746944704" />
-    <state x="520" y="241" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1621781343193">
+    <state x="520" y="241" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1621951766231">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="520" y="241" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1621781343193" />
+    <state x="520" y="241" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1621951766231" />
     <state x="499" y="182" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1621784425056">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="499" y="182" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1621784425056" />
-    <state x="48" y="79" key="FileChooserDialogImpl" timestamp="1621781212744">
+    <state x="48" y="79" key="FileChooserDialogImpl" timestamp="1621912497911">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="48" y="79" key="FileChooserDialogImpl/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1621781212744" />
-    <state width="1493" height="240" key="GridCell.Tab.0.bottom" timestamp="1621783914081">
+    <state x="48" y="79" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1621912497911" />
+    <state width="1493" height="124" key="GridCell.Tab.0.bottom" timestamp="1621953758692">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="240" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1621783914081" />
+    <state width="1493" height="124" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1621953758692" />
     <state width="1493" height="185" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1621751625324" />
-    <state width="1493" height="240" key="GridCell.Tab.0.center" timestamp="1621783914081">
+    <state width="1493" height="124" key="GridCell.Tab.0.center" timestamp="1621953758692">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="240" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1621783914081" />
+    <state width="1493" height="124" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1621953758692" />
     <state width="1493" height="185" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1621751625324" />
-    <state width="1493" height="240" key="GridCell.Tab.0.left" timestamp="1621783914081">
+    <state width="1493" height="124" key="GridCell.Tab.0.left" timestamp="1621953758692">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="240" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1621783914081" />
+    <state width="1493" height="124" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1621953758692" />
     <state width="1493" height="185" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1621751625324" />
-    <state width="1493" height="240" key="GridCell.Tab.0.right" timestamp="1621783914081">
+    <state width="1493" height="124" key="GridCell.Tab.0.right" timestamp="1621953758692">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="240" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1621783914081" />
+    <state width="1493" height="124" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1621953758692" />
     <state width="1493" height="185" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1621751625324" />
-    <state width="1493" height="240" key="GridCell.Tab.1.bottom" timestamp="1621783914083">
+    <state width="1493" height="124" key="GridCell.Tab.1.bottom" timestamp="1621953758623">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="240" key="GridCell.Tab.1.bottom/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1621783914083" />
+    <state width="1493" height="124" key="GridCell.Tab.1.bottom/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1621953758623" />
     <state width="1493" height="185" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1621751625253" />
-    <state width="1493" height="240" key="GridCell.Tab.1.center" timestamp="1621783914083">
+    <state width="1493" height="124" key="GridCell.Tab.1.center" timestamp="1621953758623">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="240" key="GridCell.Tab.1.center/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1621783914083" />
+    <state width="1493" height="124" key="GridCell.Tab.1.center/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1621953758623" />
     <state width="1493" height="185" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1621751625253" />
-    <state width="1493" height="240" key="GridCell.Tab.1.left" timestamp="1621783914082">
+    <state width="1493" height="124" key="GridCell.Tab.1.left" timestamp="1621953758623">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="240" key="GridCell.Tab.1.left/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1621783914082" />
+    <state width="1493" height="124" key="GridCell.Tab.1.left/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1621953758623" />
     <state width="1493" height="185" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1621751625253" />
-    <state width="1493" height="240" key="GridCell.Tab.1.right" timestamp="1621783914083">
+    <state width="1493" height="124" key="GridCell.Tab.1.right" timestamp="1621953758623">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="240" key="GridCell.Tab.1.right/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1621783914083" />
+    <state width="1493" height="124" key="GridCell.Tab.1.right/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1621953758623" />
     <state width="1493" height="185" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1621751625253" />
-    <state x="126" y="21" width="1240" height="843" key="SettingsEditor" timestamp="1621781235570">
+    <state x="126" y="21" width="1240" height="843" key="SettingsEditor" timestamp="1621952125093">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="126" y="21" width="1240" height="843" key="SettingsEditor/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1621781235570" />
+    <state x="126" y="21" width="1240" height="843" key="SettingsEditor/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1621952125093" />
     <state x="457" y="187" width="755" height="548" key="find.popup" timestamp="1621326486312">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -361,15 +387,19 @@
     <SUITE FILE_PATH="coverage/paython_code$ex2.coverage" NAME="ex2 Coverage Results" MODIFIED="1619749652650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
     <SUITE FILE_PATH="coverage/paython_code$ex5.coverage" NAME="ex5 Coverage Results" MODIFIED="1619753643491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5" />
     <SUITE FILE_PATH="coverage/paython_code$ex44a.coverage" NAME="ex44a Coverage Results" MODIFIED="1620786518010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day44" />
+    <SUITE FILE_PATH="coverage/python_code$mouseTest1.coverage" NAME="mouseTest1 Coverage Results" MODIFIED="1621953758596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OpenCV_/mouse" />
     <SUITE FILE_PATH="coverage/paython_code$ex12.coverage" NAME="ex12 Coverage Results" MODIFIED="1620355657354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day12" />
     <SUITE FILE_PATH="coverage/paython_code$ex1.coverage" NAME="ex1 Coverage Results" MODIFIED="1619749357375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
+    <SUITE FILE_PATH="coverage/python_code$OpenVideo.coverage" NAME="OpenVideo Coverage Results" MODIFIED="1621950530412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OpenCV_/video" />
     <SUITE FILE_PATH="coverage/python_code$createwind.coverage" NAME="createwind Coverage Results" MODIFIED="1621783794471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OpenCV_/GUI" />
     <SUITE FILE_PATH="coverage/python_code$imread.coverage" NAME="imread Coverage Results" MODIFIED="1621783880798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OpenCV_/GUI" />
+    <SUITE FILE_PATH="coverage/python_code$printLine.coverage" NAME="print Coverage Results" MODIFIED="1621953026265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OpenCV_/image" />
     <SUITE FILE_PATH="coverage/paython_code$ex13.coverage" NAME="ex13 Coverage Results" MODIFIED="1620356316319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day13" />
     <SUITE FILE_PATH="coverage/paython_code$hello.coverage" NAME="hello Coverage Results" MODIFIED="1619747521158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/paython_code$ex8__1_.coverage" NAME="ex8 (1) Coverage Results" MODIFIED="1620354375873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day9" />
     <SUITE FILE_PATH="coverage/paython_code$ex3.coverage" NAME="ex3 Coverage Results" MODIFIED="1619750295436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3" />
     <SUITE FILE_PATH="coverage/paython_code$ex6.coverage" NAME="ex6 Coverage Results" MODIFIED="1620282007312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day6" />
+    <SUITE FILE_PATH="coverage/python_code$openVideo.coverage" NAME="openVideo Coverage Results" MODIFIED="1621951254210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OpenCV_/video" />
     <SUITE FILE_PATH="coverage/paython_code$ex10.coverage" NAME="ex10 Coverage Results" MODIFIED="1620355272880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10" />
     <SUITE FILE_PATH="coverage/python_code$manage.coverage" NAME="manage Coverage Results" MODIFIED="1621751625223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Django_" />
     <SUITE FILE_PATH="coverage/paython_code$ex7.coverage" NAME="ex7 Coverage Results" MODIFIED="1620352379974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7" />
