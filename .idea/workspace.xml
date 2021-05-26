@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9ecb7e7-7742-40b3-9d9a-85d3cdb57ab7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/OpenCV_/mouse/mouseTest2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenCV_/trackbar/trackbarTest.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +78,7 @@
       <recent name="F:\self-platform\paython-code\day40\moudle" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.mouseTest2">
+  <component name="RunManager" selected="Python.trackbarTest">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="python-code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -142,28 +142,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="openCamera" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OpenCV_/video" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="F:\self-platform\python-code\OpenCV_\video\openCamera.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="openVideo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -178,6 +156,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCV_/video/openVideo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="trackbarTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OpenCV_/trackbar" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCV_/trackbar/trackbarTest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -210,11 +210,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.trackbarTest" />
         <item itemvalue="Python.mouseTest2" />
         <item itemvalue="Python.mouseTest1" />
         <item itemvalue="Python.videoWrite" />
         <item itemvalue="Python.openVideo" />
-        <item itemvalue="Python.openCamera" />
       </list>
     </recent_temporary>
   </component>
@@ -280,7 +280,7 @@
       <workItem from="1621912476163" duration="27000" />
       <workItem from="1621949076895" duration="5805000" />
       <workItem from="1621991418609" duration="83000" />
-      <workItem from="1622043174712" duration="473000" />
+      <workItem from="1622043174712" duration="1120000" />
     </task>
     <servers />
   </component>
@@ -321,45 +321,45 @@
     </state>
     <state x="48" y="79" key="FileChooserDialogImpl/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1621781212744" />
     <state x="48" y="79" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1621991447067" />
-    <state width="1493" height="197" key="GridCell.Tab.0.bottom" timestamp="1622043652870">
+    <state width="1493" height="163" key="GridCell.Tab.0.bottom" timestamp="1622044303341">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="197" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1622043652870" />
+    <state width="1493" height="163" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1622044303341" />
     <state width="1493" height="185" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1621751625324" />
-    <state width="1493" height="197" key="GridCell.Tab.0.center" timestamp="1622043652870">
+    <state width="1493" height="163" key="GridCell.Tab.0.center" timestamp="1622044303341">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="197" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1622043652870" />
+    <state width="1493" height="163" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1622044303341" />
     <state width="1493" height="185" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1621751625324" />
-    <state width="1493" height="197" key="GridCell.Tab.0.left" timestamp="1622043652870">
+    <state width="1493" height="163" key="GridCell.Tab.0.left" timestamp="1622044303341">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="197" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1622043652870" />
+    <state width="1493" height="163" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1622044303341" />
     <state width="1493" height="185" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1621751625324" />
-    <state width="1493" height="197" key="GridCell.Tab.0.right" timestamp="1622043652870">
+    <state width="1493" height="163" key="GridCell.Tab.0.right" timestamp="1622044303341">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="197" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1622043652870" />
+    <state width="1493" height="163" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1622044303341" />
     <state width="1493" height="185" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1621751625324" />
-    <state width="1493" height="197" key="GridCell.Tab.1.bottom" timestamp="1622043652764">
+    <state width="1493" height="163" key="GridCell.Tab.1.bottom" timestamp="1622044303257">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="197" key="GridCell.Tab.1.bottom/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1622043652764" />
+    <state width="1493" height="163" key="GridCell.Tab.1.bottom/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1622044303257" />
     <state width="1493" height="185" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1621751625253" />
-    <state width="1493" height="197" key="GridCell.Tab.1.center" timestamp="1622043652764">
+    <state width="1493" height="163" key="GridCell.Tab.1.center" timestamp="1622044303257">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="197" key="GridCell.Tab.1.center/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1622043652764" />
+    <state width="1493" height="163" key="GridCell.Tab.1.center/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1622044303257" />
     <state width="1493" height="185" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1621751625253" />
-    <state width="1493" height="197" key="GridCell.Tab.1.left" timestamp="1622043652764">
+    <state width="1493" height="163" key="GridCell.Tab.1.left" timestamp="1622044303257">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="197" key="GridCell.Tab.1.left/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1622043652764" />
+    <state width="1493" height="163" key="GridCell.Tab.1.left/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1622044303257" />
     <state width="1493" height="185" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1621751625253" />
-    <state width="1493" height="197" key="GridCell.Tab.1.right" timestamp="1622043652764">
+    <state width="1493" height="163" key="GridCell.Tab.1.right" timestamp="1622044303257">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="197" key="GridCell.Tab.1.right/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1622043652764" />
+    <state width="1493" height="163" key="GridCell.Tab.1.right/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1622044303257" />
     <state width="1493" height="185" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1621751625253" />
     <state x="126" y="21" width="1240" height="843" key="SettingsEditor" timestamp="1621952125093">
       <screen x="0" y="0" width="1536" height="864" />
@@ -392,6 +392,7 @@
     <SUITE FILE_PATH="coverage/paython_code$ex44a.coverage" NAME="ex44a Coverage Results" MODIFIED="1620786518010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day44" />
     <SUITE FILE_PATH="coverage/python_code$mouseTest1.coverage" NAME="mouseTest1 Coverage Results" MODIFIED="1621953758596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OpenCV_/mouse" />
     <SUITE FILE_PATH="coverage/paython_code$ex12.coverage" NAME="ex12 Coverage Results" MODIFIED="1620355657354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day12" />
+    <SUITE FILE_PATH="coverage/python_code$trackbarTest.coverage" NAME="trackbarTest Coverage Results" MODIFIED="1622044303225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OpenCV_/trackbar" />
     <SUITE FILE_PATH="coverage/paython_code$ex1.coverage" NAME="ex1 Coverage Results" MODIFIED="1619749357375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
     <SUITE FILE_PATH="coverage/python_code$OpenVideo.coverage" NAME="OpenVideo Coverage Results" MODIFIED="1621950530412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OpenCV_/video" />
     <SUITE FILE_PATH="coverage/python_code$mouseTest2.coverage" NAME="mouseTest2 Coverage Results" MODIFIED="1622043652702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OpenCV_/mouse" />
