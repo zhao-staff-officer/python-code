@@ -1,0 +1,6 @@
+print(98 > 90)
+print(98 < 90)
+print(98 == 90)
+print(98 != 90)
+print(98 >= 98)
+print(98 <= 98)
